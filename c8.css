@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: green;
+}
+a{
+    color: white;
+}
+#v{
+    border-style: ridge;
+    color: white;
+}

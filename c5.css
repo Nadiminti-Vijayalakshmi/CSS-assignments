@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+    color: black;
+}
+#v{
+   background-color: green; 
+   color:white;
+}
+#sec3{
+    border-radius: ridge;
+    background-color: skyblue;
+    color: white;
+}
+.d{
+    border-style: ridge;
+    background-color:rgb(194, 186, 186) ;
+}
